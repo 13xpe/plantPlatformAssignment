@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('./partials/head.ejs') %>
+  <body style="background-color: azure;">
+    <%- include('./partials/nav.ejs') %>
+    <div class="blogs content">
+
+      <div style="display: flex; flex-direction: row;">
+      </div>
+      
+      <h3> List of disease species and common names </h3>
+      <% for (let i = 0; i < commons.length; i++) { %>
+        <div style="background-color: rgb(171, 180, 182); margin-bottom: 10px;">
+          <h4>ID of disease species: <%= commons[i].id %>:</h4>
+          <p>Common name: <%= commons[i].com %></p>
+        </div>
+      <% } %>
+
+      <h3> List of gift id and name of the gift </h3>
+      <% for (let i = 0; i < giftnames.length; i++) { %>
+        <div style="background-color: rgb(200, 169, 169); margin-bottom: 10px;">
+          <h4><%= giftnames[i].g_id %>:</h4>
+          <p>Name of the Gift: <%= giftnames[i].g_name %></p>
+        </div>
+      <% } %>
+      
+   
+    </div>
+
+    <%- include('./partials/footer.ejs') %>
+  </body>
+</html>
