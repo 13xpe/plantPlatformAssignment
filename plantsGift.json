@@ -1,0 +1,53 @@
+{
+    "plants": [
+      {
+        "id": 1,
+        "name": "Peace Lily",
+        "species": "Spathiphyllum",
+        "description": "The Peace Lily is a beautiful and easy-to-care-for plant known for its air-purifying properties.",
+        "image": "https://images.unsplash.com/photo-1585491028309-d88d0db2809a?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=4470"
+      },
+      {
+        "id": 2,
+        "name": "Snake Plant",
+        "species": "Sansevieria",
+        "description": "The Snake Plant is a hardy, low-maintenance plant with striking tall, upright leaves.",
+        "image": "https://images.unsplash.com/photo-1547516508-e910d368d995?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=4470"
+      },
+      {
+        "id": 3,
+        "name": "Fiddle Leaf Fig",
+        "species": "Ficus lyrata",
+        "description": "The Fiddle Leaf Fig is a popular choice for its large, glossy leaves.",
+        "image": "https://images.unsplash.com/photo-1616173976697-efef88b2e860?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=4470"
+      },
+      {
+        "id": 4,
+        "name": "Succulent Collection",
+        "species": "Various",
+        "description": "This collection includes a variety of beautiful succulents, each with its unique charm.",
+        "image": "https://images.unsplash.com/photo-1672133419678-94e9f5aa85d4?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=3279"
+      },
+      {
+        "id": 5,
+        "name": "Monstera Deliciosa",
+        "species": "Monstera deliciosa",
+        "description": "The Monstera Deliciosa is known for its unique split leaves.",
+        "image": "https://images.unsplash.com/photo-1619423089884-bc5b70bc4e2c?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=4470"
+      },
+      {
+        "id": 6,
+        "name": "Lavender",
+        "species": "Lavandula",
+        "description": "Lavender is a fragrant herb known for its calming aroma.",
+        "image": "https://images.unsplash.com/photo-1477511801984-4ad318ed9846?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=4470"
+      },
+      {
+        "id": 7,
+        "name": "Pothos",
+        "species": "Epipremnum aureum",
+        "description": "Pothos, also known as Devil's Ivy, is a low-maintenance trailing vine with heart-shaped leaves.",
+        "image": "https://images.unsplash.com/photo-1586883573403-cb7ee339755b?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=4470"
+      }
+    ]
+  }
